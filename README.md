@@ -11,12 +11,16 @@ quanttide-journal-of-data-engineering/
     ├── AGENTS.md     # 项目记录撰写规范
     ├── index.md      # 项目档案（通用模板）
     ├── requirement.md # 需求地图（通用模板）
+    ├── github-activity-panel/ # GitHub 活动面板项目
+        ├── 2026-08-19.md   # 项目日志
+        ├── index.md        # 项目档案
+        └── requirement.md  # 需求地图
     ├── uspto-entity-matching/  # USPTO 实体匹配项目
     │   ├── 2026-08-19.md   # 项目日志
     │   ├── index.md        # 项目档案
     │   └── requirement.md  # 需求地图
-    └── github-activity-panel/ # GitHub 活动面板项目
-        ├── 2026-08-19.md   # 项目日志
+    └── sec-credit-cleaner/ # SEC 信贷协议提取项目
+        ├── 2026-09-27.md   # 项目日志
         ├── index.md        # 项目档案
         └── requirement.md  # 需求地图
 ```
